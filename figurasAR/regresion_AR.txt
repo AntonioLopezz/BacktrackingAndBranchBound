@@ -1,0 +1,5 @@
+  Regresión lineal PeorCaso ~ n²
+  Pendiente: 0.000012
+  R²: 0.9978
+  MSE: 60.8538
+  p-valor: 7.4842e-08

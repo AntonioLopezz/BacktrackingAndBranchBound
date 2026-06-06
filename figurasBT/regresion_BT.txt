@@ -1,0 +1,11 @@
+  Regresión lineal PeorCaso ~ 2^N
+  Pendiente: 3.053417e-05
+  R²: 0.9990
+  MSE: 1.4582
+  p-valor: 2.7264e-13
+
+  Regresión lineal MejorCaso ~ N
+  Pendiente: 0.000566
+  R²: 0.9230
+  MSE: 0.0000
+  p-valor: 9.9273e-06
